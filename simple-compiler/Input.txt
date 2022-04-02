@@ -1,0 +1,58 @@
+void main()
+{
+	/*cout << 24 >> 2 << endl;
+	cout << 5 << endl << 42 << endl;
+	tipsy = 0;
+	tipsy += 5;
+	cout << endl << tipsy << endl;
+	dumpling = 20;
+	dumpling -= 10;
+	cout << dumpling;
+
+
+	int sum = 35 + 400;
+	cout << sum;
+
+	if((1 + 1 > 0) == false)
+		cout << 101;
+
+	if((0 >= 1) == false)
+		cout << 50;
+
+	int x = 0;
+	while(x != 5) {
+		x = x + 1;
+		cout << x << endl;
+	}
+
+	sum = 5&&0;
+	cout << sum << endl;
+
+	sum = 5 < 6;
+	cout << sum << endl;
+
+	sum = 5 > 6;
+	cout << sum << endl;
+
+	sum = 1 + 2 - 3 * 4 / 5;
+	cout << sum << endl;*/
+
+	int x = 2;
+	x *= 8;
+	cout << x << endl;
+
+	cout << 1 || 0 << endl;
+	cout << 1 or 0 << endl;
+
+	cout << 1 && 0 << endl;
+	cout << 1 and 0 << endl;
+
+	int y = 0;
+	do{
+		cout << y;
+		y += 1;
+	}while(y < 5);
+
+	cout << endl;
+	cout << 10101 << endl;
+}
